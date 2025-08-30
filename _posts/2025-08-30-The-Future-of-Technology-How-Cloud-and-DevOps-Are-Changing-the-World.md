@@ -17,7 +17,7 @@ tags:
 categories:
   - Technology
   - Engineering
-cover_image: ![Image]({{ site.baseurl }}/assets/images/cloud-devops-future.png)
+cover_image: <img src="/assets/images/cloud-devops-future.png" alt="chandanadev.com">
 excerpt_separator: <!--more-->
 sitemap: true
 ---
