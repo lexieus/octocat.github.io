@@ -27,9 +27,7 @@ Technology today is moving faster than ever before, and it’s reshaping how bus
 In my own journey of working with modern technology, I’ve seen how these two areas go hand in hand. Let’s take a closer look at why they are so important for the future.
 
 ## 🌍 The Power of Cloud Computing
-<img src="/assets/images/cloud-devops-future.png" 
-     alt="Cloud DevOps Future - chandanadev.com"
-     style="transform: scale(0.5); transform-origin: top left;" />
+<img src="/assets/images/cloud-devops-future.jpg" alt="Cloud DevOps Future - chandanadev.com"/>
 The cloud has become more than just a trend—it’s the foundation of modern business. No matter the size of the company, the cloud makes it possible to:
 
 - Scale resources up or down instantly.  
