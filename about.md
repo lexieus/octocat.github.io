@@ -28,3 +28,5 @@ If you’re looking for someone who can bridge the gap between technology and bu
 📩 Let’s connect! I’d love to collaborate and bring your ideas to life.
 
 <a href="https://www.fiverr.com/lexieus" target="_blank" rel="noopener noreferrer">Get my service</a>
+<a href="https://www.linkedin.com/in/chandana-nawarathna-492a7987/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="https://linktr.ee/nchandana" target="_blank" rel="noopener noreferrer">Link Tree</a>
