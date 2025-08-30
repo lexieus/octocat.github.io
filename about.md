@@ -26,3 +26,5 @@ Tech Consultation – Guiding businesses in adopting the right digital strategie
 If you’re looking for someone who can bridge the gap between technology and business needs, you’re in the right place.
 
 📩 Let’s connect! I’d love to collaborate and bring your ideas to life.
+
+<a href="https://www.fiverr.com/lexieus" target="_blank" rel="noopener noreferrer">Get my service</a>
