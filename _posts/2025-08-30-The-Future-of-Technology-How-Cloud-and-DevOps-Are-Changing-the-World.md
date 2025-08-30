@@ -17,7 +17,7 @@ tags:
 categories:
   - Technology
   - Engineering
-cover_image: <img src="/assets/images/cloud-devops-future.png" alt="chandanadev.com">
+cover_image: ![Image]({{ site.baseurl }}/assets/images/cloud-devops-future.png)
 excerpt_separator: <!--more-->
 sitemap: true
 ---
@@ -27,7 +27,7 @@ Technology today is moving faster than ever before, and it’s reshaping how bus
 In my own journey of working with modern technology, I’ve seen how these two areas go hand in hand. Let’s take a closer look at why they are so important for the future.
 
 ## 🌍 The Power of Cloud Computing
-
+<img src="/assets/images/cloud-devops-future.png" alt="chandanadev.com">
 The cloud has become more than just a trend—it’s the foundation of modern business. No matter the size of the company, the cloud makes it possible to:
 
 - Scale resources up or down instantly.  
