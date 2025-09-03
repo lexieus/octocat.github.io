@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /contact.html
+# Sitemap for better SEO
+Sitemap: https://chandanadev.com/sitemap.xml
