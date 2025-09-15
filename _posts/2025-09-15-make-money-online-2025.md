@@ -6,7 +6,7 @@ categories: [Make Money Online, SEO, Blogging]
 tags: [make money online 2025, earn money online, passive income, affiliate marketing, freelancing, digital products, dropshipping, YouTube]
 description: "A practical guide to making money online in 2025. Learn 10 proven methods including freelancing, blogging, affiliate marketing, YouTube, ecommerce, and more."
 author: "Chandana Nawarathna"
-image: "/assets/images/make-money-online-2025.jpg"
+image: "/assets/images/online_money.jpg"
 canonical_url: "https://chandanadev.com/make-money-online-2025"
 ---
 
