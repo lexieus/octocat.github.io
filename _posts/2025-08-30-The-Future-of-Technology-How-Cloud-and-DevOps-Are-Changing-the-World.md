@@ -25,9 +25,11 @@ sitemap: true
 Technology today is moving faster than ever before, and it’s reshaping how businesses work in every corner of the globe. Two of the biggest drivers of this change are **cloud computing** and **DevOps**. When combined, they give companies the ability to grow quickly, adapt to new challenges, and deliver better digital services to people everywhere. <!--more-->
 
 In my own journey of working with modern technology, I’ve seen how these two areas go hand in hand. Let’s take a closer look at why they are so important for the future.
-
+<div style="text-align: center;">
+  <img src="/assets/images/cloud-devops-future.jpg" alt="Cloud DevOps Future - chandanadev.com"/>
+</div>
 ## 🌍 The Power of Cloud Computing
-<img src="/assets/images/cloud-devops-future.jpg" alt="Cloud DevOps Future - chandanadev.com"/>
+
 The cloud has become more than just a trend—it’s the foundation of modern business. No matter the size of the company, the cloud makes it possible to:
 
 - Scale resources up or down instantly.  
