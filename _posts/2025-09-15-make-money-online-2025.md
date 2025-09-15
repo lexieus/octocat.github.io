@@ -9,7 +9,9 @@ author: "Chandana Nawarathna"
 image: "/assets/images/online_money.jpg"
 canonical_url: "https://chandanadev.com/make-money-online-2025"
 ---
+<div style="text-align: center;">
 <img src="/assets/images/online_money.jpg" alt="Make Money Online in 2025 - chandanadev.com"/>
+</div>
 # 10 Best Ways to Make Money Online in 2025 (Ultimate Long-Form Guide)
 
 If you’ve ever Googled *“how to make money online”* you’ve probably come across countless promises of easy riches. I’ll be honest with you upfront: there’s no magic button. But there **are** proven ways to earn a real income online in 2025, and thousands of people (myself included) are doing it every day.  
