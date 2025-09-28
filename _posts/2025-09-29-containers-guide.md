@@ -12,6 +12,10 @@ In the rapidly changing world of software development and IT infrastructure, con
 
 This guide explores what containers are, how they work, their advantages, practical use cases, real-world examples, and the technologies that support them.  
 
+<div style="text-align: center;">
+<img src="/assets/images/cont.jpg" alt="Containers in Modern Computing: A Complete Guide - chandanadev.com"/>
+</div>
+
 ---
 
 ## What Are Containers?  
