@@ -16,6 +16,9 @@ In today’s fast-paced software world, **DevOps** has become the backbone of mo
 
 Whether you’re a **developer**, **DevOps engineer**, or simply curious about how modern software is delivered so quickly, this guide will walk you through what a DevOps pipeline is, why it’s important, and how it works.
 
+<div style="text-align: center;">
+<img src="/assets/images/devops-pipeline.jpg" alt="What is a DevOps Pipeline? The Ultimate Beginner’s Guide (2025 Update) - chandanadev.com"/>
+</div>
 ---
 
 ## 🔍 **What is a DevOps Pipeline?**
