@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Future of Technology: How Cloud and DevOps Are Changing the World"
+title: "What is a DevOps Pipeline? The Ultimate Beginner’s Guide (2025 Update)"
 description: "Cloud computing and DevOps are transforming how businesses build scalable digital solutions with speed, reliability, and global reach."
 date: 2025-08-31 23:00:00 +0530
 author: "Chandana Nawarathna"
