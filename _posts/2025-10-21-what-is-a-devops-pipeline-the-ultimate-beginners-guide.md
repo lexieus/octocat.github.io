@@ -98,10 +98,5 @@ If you’re looking to improve your software delivery process, start by building
 
 ---
 
-### 🏷️ **SEO Keywords**
-*DevOps pipeline, what is DevOps pipeline, DevOps automation, CI/CD pipeline, DevOps tools, continuous integration, continuous delivery, DevOps workflow*
-
----
-
 *Author: Chandana Nawarathna*  
 *Published on: {{ page.date | date: "%B %d, %Y" }}*
