@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Ingress NGINX Is Being Retired — What Kubernetes Users Should Do Next"
 date: 2025-11-18
@@ -6,6 +7,7 @@ categories: [kubernetes, cloud-native, networking]
 tags: [Kubernetes, IngressNGINX, GatewayAPI, DevOps, SRE, Security]
 excerpt: "Ingress NGINX will be retired in March 2026. Start planning migration to Gateway API or another maintained ingress controller now to avoid future security and maintenance risks."
 Ingress NGINX Is Being Retired — What Kubernetes Users Should Do Next
+---
 
 On November 12, 2025, Kubernetes SIG Network and the Security Response Committee announced that Ingress NGINX will be retired, with best-effort maintenance continuing until March 2026. After that date there will be no releases, no bug fixes, and no security patches. Existing deployments will continue to function, and installation artifacts will remain available — but running an unmaintained ingress controller in production carries real security and compliance risks.
 
