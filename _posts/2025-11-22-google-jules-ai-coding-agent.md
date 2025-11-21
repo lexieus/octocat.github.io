@@ -39,8 +39,6 @@ last_modified_at: 2025-11-22
     <li><a href="#pricing">Pricing & Plans</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#limitations">Limitations</a></li>
-    <li><a href="#future">Future Outlook</a></li>
-    <li><a href="#faq">FAQ</a></li>
   </ul>
 </div>
 
