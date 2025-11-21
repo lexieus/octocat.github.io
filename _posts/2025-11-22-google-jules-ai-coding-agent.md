@@ -45,6 +45,10 @@ last_modified_at: 2025-11-22
   </ul>
 </div>
 
+<div style="text-align: center;">
+<img src="/assets/images/ai.jpg" alt="Google Jules AI Coding Agent - Complete Guide (2025) - chandanadev.com"/>
+</div>
+
 ---
 
 ## Introduction: The Dawn of Autonomous Coding
