@@ -18,15 +18,6 @@ last_modified_at: 2025-11-22
 </div>
 
 <!-- Breadcrumb Navigation -->
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Home</a></li>
-    <li class="breadcrumb-item"><a href="/ai-tools/">AI Tools</a></li>
-    <li class="breadcrumb-item"><a href="/developer-tools/">Developer Tools</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Google Jules</li>
-  </ol>
-</nav>
-
 <!-- Quick Navigation -->
 <div class="quick-nav">
   <h2>Quick Navigation</h2>
