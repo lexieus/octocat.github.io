@@ -11,6 +11,9 @@ image: /assets/images/linux-migration-europe.jpg
 lang: en
 permalink: /windows-to-linux-europe-france-guide/
 ---
+<div style="text-align: center;">
+<img src="/assets/images/linux-migration-europe.jpg" alt="Windows to Linux Migration Guide for Europe (France Tips Included 🇫🇷) - chandanadev.com"/>
+</div>
 
 ## Windows to Linux Migration Guide for Europe (France 🇫🇷 Included)
 
