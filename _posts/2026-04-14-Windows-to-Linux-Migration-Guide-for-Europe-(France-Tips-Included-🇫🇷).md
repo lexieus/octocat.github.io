@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Windows to Linux Migration Guide for Europe (France Tips Included 🇫🇷)"
 date: 2026-04-14
