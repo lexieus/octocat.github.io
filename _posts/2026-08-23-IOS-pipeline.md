@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Building a Production-Ready iOS CI/CD Pipeline with GitHub Actions, .NET MAUI & Fastlane"
 date: 2026-08-23
