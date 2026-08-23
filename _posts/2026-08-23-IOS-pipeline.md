@@ -4,7 +4,7 @@ date: 2026-08-23
 author: Chandana Nawarathna
 categories: [DevOps, CI/CD, Mobile DevOps]
 tags: [GitHub Actions, .NET 9, .NET MAUI, Fastlane, iOS, TestFlight, Xcode, App Store Connect, Automation, Code Signing, Self-Hosted Runner]
---------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 # Building a Production-Ready iOS CI/CD Pipeline with GitHub Actions, .NET MAUI & Fastlane
