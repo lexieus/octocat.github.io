@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kubernetes Resource Quotas and Limit Ranges"
-date: 2026-10-20T00:00:00+0530
+date: 2026-10-09T00:00:00+0530
 author: Chandana Nawarathna
 categories: [kubernetes, devops, infrastructure]
 tags: [kubernetes, resource-quotas, limit-ranges, compute-resources, cluster-administration]
